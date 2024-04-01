@@ -1,4 +1,4 @@
-# How to faced a simple algorithm problem.
+# How to face a simple algorithm problem.
 ## In this repository we are going to explain step by step how you can think when you don't understand a problem ( A simple algorithm problem). 
 The basic problems (c#):
 
